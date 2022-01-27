@@ -78,4 +78,9 @@
                         background-color: #2b4a79;
                         font-size: 25px;
                   }}
-            
+/*transfomacion*/
+.prod:hover{
+    transform: scale(1.5);
+    transition-property: all;
+    transition-duration: 1s;
+}            
